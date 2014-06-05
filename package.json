@@ -18,11 +18,11 @@
     "url": "https://github.com/manuelcabral/lr-http-server/issues"
   },
   "dependencies": {
-    "connect": "~2.8.8",
-    "commander": "~2.0.0",
-    "gaze": "~0.4.3",
-    "tiny-lr": "0.0.5",
-    "connect-livereload": "~0.3.0",
-    "open": "0.0.4"
+    "connect": "~2.19.3",
+    "commander": "~2.2.0",
+    "gaze": "~0.6.4",
+    "tiny-lr": "0.0.7",
+    "connect-livereload": "~0.4.0",
+    "open": "0.0.5"
   }
 }
